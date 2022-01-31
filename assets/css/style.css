@@ -10,6 +10,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* apply styles to <header> */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -44,6 +45,7 @@ header nav ul li {
     margin: 10px;
 }
 
+/* apply style to <footer> */
 footer {
     padding: 30px;
     clear: both;
@@ -61,6 +63,7 @@ footer div {
     text-align: right;
 }
 
+/* Here STyle Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,7 +73,9 @@ footer div {
     background-position: center;
     position: relative;
 }
+/* Here STyle End */
 
+/* Main Content Style Start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -104,6 +109,9 @@ footer div {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Main Content Style End */
+
+/* Aside Content Style Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,3 +137,4 @@ footer div {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Aside Content Style End */
