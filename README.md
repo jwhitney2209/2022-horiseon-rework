@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+This project was centered around accessibility and semantic structure in both HTML and CSS. I was given code for a website that was already built and was asked to make it more accessible. There were many places in the HTML and CSS that required some consolidation and more definitive selectors. For example, in the HTML, the "<div>" was used excessively. I made a solution to that problem by using "<section>" where it made the most sense. I also simplified many descriptors to help with the consolidation and re-ordering of the stylesheet. 
