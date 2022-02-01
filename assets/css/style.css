@@ -90,6 +90,9 @@ footer div {
 .content {
     width: 75%;
     display: inline-block;
+}
+
+.content div {
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 50px;
